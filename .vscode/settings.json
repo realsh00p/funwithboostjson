@@ -1,0 +1,16 @@
+{
+    "clangd.path": "/usr/bin/clangd-14",
+    "clangd.arguments": [
+        "-compile-commands-dir=build"
+    ],
+    "clang-format.style": "file",
+    "clang-format.language.c.enable": true,
+    "clang-format.executable": "/usr/bin/clang-format-14",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false
+}

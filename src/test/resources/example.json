@@ -1,0 +1,29 @@
+{
+    "name": "Iron Maiden",
+    "founded": 1975,
+    "albums" : [
+        {
+            "title" : "The Number Of The Beast",
+            "released": "1982"
+        },
+        {
+            "title" : "Piece Of Mind",
+            "released": "1983"
+        },
+        {
+            "title" : "Powerslave",
+            "released": "1984"
+        }
+    ],
+    "members": [
+      {
+        "name": "Bruce Dickinsson",
+        "instrument": "Vocals"
+      },
+      {
+        "name": "Steve Harris",
+        "instrument": "Bass Guitar"
+      }
+    ]
+
+}
